@@ -4,8 +4,8 @@
     "witness": "ed25519_sig12z7e6cdt75expvtmjxmrk4dsx7v2n39gpwz48lrxs0n53l0ph6g934vu4sx67wr2uh8688rvsvtdqa5v4g9xtc9tzfx54sn26qs0upg2ztrgd"
   },
   "info": {
-    "url_png_icon_64x64": "https://smitblockchainops.nl/logoceio.png",
-    "url_png_logo": "https://smitblockchainops.nl/logolceio.png",
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/GS1973/BK/main/logoceio.png",
+    "url_png_logo": "https://raw.githubusercontent.com/GS1973/BK/main/logolceio.png",
     "location": "The Netherlands",
     "social": {
       "twitter_handle": "GS_X_SBO",
