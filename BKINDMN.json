@@ -1,0 +1,7 @@
+{
+"name": "Smit Blockchain Operations",
+"description": "The trustworthy Cardano Stake Pool" ,
+"ticker": "BKIND",
+"homepage": "https://smitblockchainops.nl",
+"extended": "https://raw.githubusercontent.com/GS1973/BK/main/BKINDMN_ext.json"
+}
