@@ -1,7 +1,14 @@
 {
-"name": "Smit Blockchain Operations",
-"description": "The trustworthy Cardano Stake Pool" ,
-"ticker": "BKIND",
-"homepage": "https://smitblockchainops.nl",
-"extended": "https://raw.githubusercontent.com/GS1973/BK/main/BKINDMN_ext.json"
+  "name": "Smit Blockchain Operations",
+  "description": "The trustworthy Cardano Stake Pool",
+  "ticker": "BKIND",
+  "homepage": "https://smitblockchainops.nl",
+  "extended": "https://raw.githubusercontent.com/GS1973/BK/main/BKINDMN_ext.json",
+  "references": [
+    {
+      "@type": "Role",
+      "label": "DRep of the operator",
+      "uri": "web+cardano://drep?drep1ytc6867ae0xmkekvmex79r9akyy28eu8nu03jf3xu9fle6c82l4eq"
+    }
+  ]
 }
